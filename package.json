@@ -1,0 +1,20 @@
+{
+  "name": "timetable-app",
+  "version": "1.0.0",
+  "description": "A timetable generation web app with user authentication and MySQL database",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.8",
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
