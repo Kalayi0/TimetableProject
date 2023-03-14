@@ -17,4 +17,5 @@ install this package using <b>------npm install mysql2------</b>
 ii).cors is a middleware that allows you to control cross-origin resource sharing (CORS) for your Node.js application.
 install this package using ------npm install cors-------</b>
 
-<b>To run the server use ----npm start-----</b>
+Use <b>----npm init----</b> to install the neccessary modules for the project
+To run the server use <b>----npm start-----</b>
