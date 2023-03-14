@@ -18,4 +18,5 @@ ii).cors is a middleware that allows you to control cross-origin resource sharin
 install this package using ------npm install cors-------</b>
 
 Use <b>----npm init----</b> to install the neccessary modules for the project
+
 To run the server use <b>----npm start-----</b>
